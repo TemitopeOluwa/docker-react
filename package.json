@@ -34,9 +34,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "jest-watch-typeahead": "^0.6.5"
+=======
+>>>>>>> fba0c020d6e861834abf0402c84d842e575af4fd
   }
 }
